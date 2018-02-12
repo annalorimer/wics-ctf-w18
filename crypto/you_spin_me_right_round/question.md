@@ -1,0 +1,1 @@
+SLV zna, nyevtug. Lbh pbhyq fvg ng ubzr, naq qb yvxr nofbyhgryl abguvat, naq lbhe anzr tbrf guebhtu yvxr 17 pbzchgref n qnl. 1984? Lrnu evtug, zna. Gung'f n glcb. Bejryy vf urer abj. Ur'f yviva' ynetr. vnzgursynt Jr unir ab anzrf, zna. Ab anzrf. Jr ner anzryrff!
