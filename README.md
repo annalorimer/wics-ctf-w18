@@ -20,6 +20,9 @@ WiCS CTF W18
 
 **Any additional files**
 
+- Any other files that are needed to solve the question
+- JPEGs, PNGs, .txt, code snippets etc. 
+
 ## Scoring
 
 - Scores are multiples of 10 (10, 20, 30, ...)
