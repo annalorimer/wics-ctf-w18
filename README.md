@@ -53,5 +53,8 @@ This is a list of people who contributed to this CTF! They're awesome!
   - got_your_number
   
 - [Fatema Boxwala](https://fbox.ca)
+  - traceroute
+  - netstat
+  - the terrible pics
 
 - [Arshia Mufti](https://twitter.com/arshia__)
