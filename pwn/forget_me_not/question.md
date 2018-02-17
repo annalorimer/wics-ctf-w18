@@ -1,0 +1,1 @@
+Seems like you've forgotten your password to your PasswordDB (TM). Oops. You know that the password is 16 characters long and only has characters from the alphabet (a-z, A-Z) but you can't remember anything other than that. Try to recover your password. 
