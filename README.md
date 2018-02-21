@@ -51,6 +51,7 @@ This is a list of people who contributed to this CTF! They're awesome!
   - got_lucky
   - you_spin_me_right_round
   - got_your_number
+  - web/
   
 - [Fatema Boxwala](https://fbox.ca)
   - traceroute
