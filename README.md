@@ -52,6 +52,7 @@ This is a list of people who contributed to this CTF! They're awesome!
   - you_spin_me_right_round
   - got_your_number
   - web/
+  - reversing/
   
 - [Fatema Boxwala](https://fbox.ca)
   - traceroute
