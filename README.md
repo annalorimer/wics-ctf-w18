@@ -47,17 +47,19 @@ Every question should:
 This is a list of people who contributed to this CTF! They're awesome!
 
 - [Anna Lorimer](https://www.annalorimer.com)
-  - back_to_baseics
-  - got_lucky
-  - you_spin_me_right_round
-  - got_your_number
+  - crypto/
   - web/
   - reversing/
+  - trivia/
+  - pwn/
+  - web-challenges-code/
   
 - [Fatema Boxwala](https://fbox.ca)
-  - traceroute
-  - netstat
+  - networking/
+  - trivia/
   - the terrible pics
 
 - [Arshia Mufti](https://twitter.com/arshia__)
+  - rust/
 - [Sunjay Varma](http://sunjay.ca/)
+  - rust/
