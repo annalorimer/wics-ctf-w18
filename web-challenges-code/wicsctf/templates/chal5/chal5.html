@@ -1,0 +1,48 @@
+<! DOCTYPE html>
+<html>
+	<head>
+		<title>Challenge 5</title>
+	</head>
+	<style>
+		form {
+			font-family: 'Roboto Mono', monospace;
+		}
+		h1, p {
+			font-family: 'Roboto Mono', monospace;
+		}
+		#logo {
+			height: 35%;
+			width: 35%;
+		}
+		table, tr, td {
+			padding-top: 15px;
+			padding-right: 15px;
+			padding-left: 15px;
+		}
+	</style>
+	<body>
+		<center>
+		<img id="logo"  src="/static/things.png">
+		<p>Welcome to Things 'N Stuff the only destination for all your things and stuff needs!</p>
+			<table>
+				<tr>
+					<td>
+						<img src="/static/diamond.jpg" height="55%"><br><br>
+					</td>
+					<td><form method="get">
+						Id: <input name="id" value="29292551" readonly><br><br>
+						Name: <input  name="product" value="Sparkly Diamond" readonly><br><br>
+						Price: <input name="price" value="1000000" readonly><br><br>
+						<input type="submit" value="Buy!">
+						</form>
+					</td>
+				</tr>
+			</table>
+			<p>We'll add the tax for you when you click 'buy'.</p>
+			{% if flag %}
+				<p> {{ flag }} </p>
+			{% endif %}
+			<br>
+		</center>
+	</body>
+</html>
