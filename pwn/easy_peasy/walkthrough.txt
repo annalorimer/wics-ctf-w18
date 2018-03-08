@@ -1,1 +1,0 @@
-1. Use some hexdecoder to solve the problem ex. "string".decode('hex') in Python.

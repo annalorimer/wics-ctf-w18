@@ -1,6 +1,20 @@
 # wics-ctf-w18
 WiCS CTF W18
 
+Congratulations to all the teams who participated! 
+
+| Team | Score |
+| :---: | :---: |
+| TL | 5900 |
+| Anna's Fav Team | 4700 |
+| GooseOnRoof | 3800|
+| Whatever | 3700 |
+| Common\_Shinnies | 3600 |
+| Circuits | 2500 |
+| Bee | 1100 |
+| Jackie Workshop | 900 |
+
+---
 ## Question Format
 
 Every question should:
@@ -26,10 +40,6 @@ Every question should:
 
 - Step by step instructions for how to solve the question
 
-**Score File**
-
-- Contains a multiple of 10 that indicates how many points the question is worth
-
 **Any additional files**
 
 - Any other files that are needed to solve the question
@@ -38,7 +48,7 @@ Every question should:
 
 ## Scoring
 
-- Scores are multiples of 10 (10, 20, 30, ...)
+- Scores are one of [100, 200, 300, 400, 500]
 - Based on level of difficulty 
 
 
@@ -61,5 +71,6 @@ This is a list of people who contributed to this CTF! They're awesome!
 
 - [Arshia Mufti](https://twitter.com/arshia__)
   - rust/
+
 - [Sunjay Varma](http://sunjay.ca/)
   - rust/
